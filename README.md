@@ -1,2 +1,5 @@
-# OFFBALL
-Proyecto de Big Data e Inteligencia Artificial aplicado al análisis y scouting de jugadores de fútbol.
+# API
+
+**Pendiente.**
+
+Añadir el código FastAPI, instrucciones de instalación y arranque, endpoints, ejemplos de petición/respuesta y pruebas realizadas.
